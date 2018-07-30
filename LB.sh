@@ -117,7 +117,6 @@ if [ $LB = 7 ] || [ $LB = 7 ]
 then
 cd $HOME
 git clone https://github.com/LOoLzeC/Evil-create-framework.git
-cd Evil-create-framework
 sleep 1
 echo "\033[31;1m SUCCES..."
 cd LB && sh LB.sh
