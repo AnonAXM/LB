@@ -61,7 +61,9 @@ apt-get install tor
 apt-get install python2
 pkg install tor
 git clone https://github.com/dotfighter/torshammer.git
+sleep 1
 echo "\033[31;1m SUCCES..."
+sleep 1
 cd LB && sh LB.sh
 fi
 
@@ -80,6 +82,7 @@ apt-get install dos2unix
 dos2unix scanchan.sh
 sleep 1
 echo "\033[31;1m SUCCES..."
+sleep 1
 cd LB && sh LB.sh
 fi
 
@@ -89,7 +92,9 @@ then
 cd $HOME
 pkg install git -y
 git clone https://github.com/T4P4N/53R3N17Y.git
+sleep 1
 echo "\033[31;1m SUCCES..."
+sleep 1
 cd LB && sh LB.sh
 fi
 
@@ -100,6 +105,7 @@ cd $HOME
 pkg update && pkg upgrade && pkg install curl && curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh 
 sleep 1
 echo "\033[31;1m SUCCES..."
+sleep 1
 cd LB && sh LB.sh
 fi
 
@@ -109,6 +115,7 @@ cd $HOME
 git clone https://github.com/mkbrutusproject/MKBRUTUS.git
 sleep 1
 echo "\033[31;1m SUCCES..."
+sleep 1
 cd LB && sh LB.sh
 fi
 
@@ -119,6 +126,7 @@ cd $HOME
 git clone https://github.com/LOoLzeC/Evil-create-framework.git
 sleep 1
 echo "\033[31;1m SUCCES..."
+sleep 1
 cd LB && sh LB.sh
 fi
 
@@ -132,6 +140,7 @@ pkg install git -y
 Install mechanize
 pip2 install mechanize
 git clone https://github.com/pirmansx/mbf
+sleep 1
 echo "\033[31;1m SUCCES..."
 cd mbf
 python2 MBF.py
