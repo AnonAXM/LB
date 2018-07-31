@@ -156,5 +156,8 @@ pkg install cmatrix -y
 pkg install sl -y
 sl
 cmatrix -C cyan -a -b -s 
+cmatrix -C red -a -b -s
+cmatrix -C cyan -a -b -s -l 
+cmatrix -C red -a -b -s -l 
 cd LB && sh LB.sh
 fi
