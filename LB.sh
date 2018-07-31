@@ -29,7 +29,9 @@ echo "\033[34;1m
 
 7.VCRT          8.MBF
 
-9.BONUS"
+9.BONUS
+
+Masukkan Nomor pilihan = "
 
 read LB
 
