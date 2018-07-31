@@ -31,7 +31,7 @@ echo "\033[34;1m
 
 9.BONUS
 
-Masukkan Nomor pilihan = "
+Masukkan Nomor pilihan 👇 "
 
 read LB
 
